@@ -5,6 +5,9 @@
 
 GramQuest is a Telegram-first, Web3-powered questing platform where users complete real-world challenges to earn TON tokens and NFTs. No apps, no friction — just scan, explore, and earn directly from Telegram.
 
+<img src="https://github.com/user-attachments/assets/722300e1-770f-4db0-bbe1-33e3507dfded" width="200"/>
+
+
 ---
 
 ## 🚀 Features
@@ -39,6 +42,8 @@ GramQuest is a Telegram-first, Web3-powered questing platform where users comple
 ---
 
 ## 📦 Architecture
+
+<img src="https://github.com/user-attachments/assets/064d3d10-0168-4e5d-a97f-27ccad55f8b9" width="420"/>
 
 Key layers:
 - **User Layer**: Telegram users, wallets, quest creators
@@ -92,12 +97,6 @@ Contributions welcome! Please:
 * Fork the repo
 * Create a feature branch
 * Open a pull request describing your changes
-
----
-
-## 🔐 License
-
-MIT © 2025 GramQuest Contributors
 
 ---
 
